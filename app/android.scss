@@ -1,0 +1,42 @@
+@import "./app.scss";
+
+.nav-btn{
+  background-color: #FFFFFF;
+  margin:20;
+  padding: 10;
+  border-radius: 50;
+  font-size:30;
+  height: 60;
+  width: 60;
+}
+.selected {
+  background-color: rgba(240, 46, 4, 1);
+}
+
+.bold {
+  font-size: 30;
+  color: rgba(240, 46, 4, 1);
+  margin-top: 30;
+}
+.text {
+  font-size: 20;
+  color: white;
+  text-align: center;
+  vertical-align: center;
+}
+
+.small-text{
+  font-size: 10;
+  color: white;
+  text-align: center;
+  vertical-align: center;
+}
+
+.header {
+  font-size: 30;
+  color: rgba(240, 46, 4, 1);
+  text-align: center;
+  vertical-align: center;
+  margin-top: 30;
+}
+
